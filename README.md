@@ -3,7 +3,7 @@ Modified Dataset for Physical Layer Analysis V2X
 
 To cite this dataset please cite:
 
-Steven So, Jonathan Petit, and David Starobinski. 2019. Physical Layer Plau-sibility Checks for, Misbehavior Detection in V2X Networks. InProceedingsof ACM WiSec Conference (WiSec’19).ACM, New York, NY, USA, Article 4,10 pages.
+Steven So, Jonathan Petit, and David Starobinski. 2019. Physical Layer Plausibility Checks for, Misbehavior Detection in V2X Networks. In Proceedings of ACM WiSec Conference (WiSec’19). ACM, New York, NY, USA, Article 4,10 pages.
 
 
 Each of the .mat files contain simulation data in Veremi. 
